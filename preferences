@@ -1,0 +1,15 @@
+fotos.dirEntrada=/home/angel/Escritorio/BHD/cris/
+fotos.maxSize=1024
+marca.habilitado=1
+marca.alin.h=1
+marca.alin.v=1
+marca.ruta=/home/angel/Resizer+/fotos/logos/marca.png
+marca.opacidad=10
+pie.habilitado=1
+pie.alin.h=0
+pie.alin.v=2
+pie.ruta=/home/angel/Resizer+/fotos/logos/firma-sa.png
+pie2.habilitado=1
+pie2.alin.h=2
+pie2.alin.v=2
+pie2.ruta=/home/angel/Resizer+/fotos/logos/nombres/cristina.png
